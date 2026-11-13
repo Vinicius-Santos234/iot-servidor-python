@@ -1,6 +1,7 @@
 pip
-flask
+Flask>=3.0.0
 firebase-admin
-pyserial
+pyserial>=3.5
 pandas
 google-generativeai
+requests>=2.31.0
